@@ -43,5 +43,9 @@
   "bugs": {
     "url": "https://github.com/w-site/redux-diff/issues"
   },
-  "homepage": "https://github.com/w-site/redux-diff#readme"
+  "homepage": "https://github.com/w-site/redux-diff#readme",
+  "engines": {
+    "node": "5.7.0",
+    "npm": "3.6.0"
+  }
 }
